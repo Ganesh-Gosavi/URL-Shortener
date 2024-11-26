@@ -3,6 +3,7 @@
 A simple and interactive URL shortener built with **Node.js**, **Express**, **MongoDB**, and **EJS**. This application allows users to shorten long URLs, track usage statistics, and redirect users from short URLs to the original ones.
 
 ## Features 🌟
+** Deployed Link ** :https://url-shortener-pv25.onrender.com/
 
 - **🔗 Shorten URLs**: Quickly shorten long URLs into short, shareable links.
 - **↗️ Redirection**: Redirects users to the original URL when visiting the shortened URL.
