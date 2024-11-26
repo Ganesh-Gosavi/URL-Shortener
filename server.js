@@ -18,10 +18,13 @@ app.use(limiter); // Apply rate limiter globally
 
 // Connect to the MongoDB database
 mongoose
-  .connect("mongodb://localhost/urlShortener", {
-    useNewUrlParser: true, // Use the new URL string parser
-    useUnifiedTopology: true, // Use the new server discovery and monitoring engine
-  })
+  .connect(
+    "mongodb+srv://ganagosavi92:rkhj2U15p0z5G9tR@cluster0.oyqakwz.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+    {
+      useNewUrlParser: true, // Use the new URL string parser
+      useUnifiedTopology: true, // Use the new server discovery and monitoring engine
+    }
+  )
   .then(() => console.log("Database connected successfully!")) // Log success message for database connection
   .catch((error) => console.error("Database connection failed:", error)); // Log error message if connection fails
 
