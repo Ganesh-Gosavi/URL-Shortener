@@ -104,7 +104,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ### Connect with me! 💬
 
 - [GitHub](https://github.com/Ganesh-Gosavi)
-- [LinkedIn](\https://www.linkedin.com/in/ganesh-gosavi-6856b1230/)
+- [LinkedIn](https://www.linkedin.com/in/ganesh-gosavi-6856b1230/)
 - [Twitter](https://twitter.com/ganeshgosavi95697)
 
 ---
