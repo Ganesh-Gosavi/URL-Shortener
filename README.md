@@ -79,7 +79,7 @@ Here are some screenshots of the UI:
 ![URL Shortener UI Screenshot](https://via.placeholder.com/600x400.png?text=UI+Screenshot)  
 *Example of the homepage UI showing the form to shorten URLs.*
 
-![Shortened URL List](https://via.placeholder.com/600x400.png?text=Shortened+URLs)  
+![Screenshot 1](./Sreenshot/Sreenshot.png) 
 *Example of the list displaying shortened URLs and their click counts.*
 
 > You can replace the URLs above with the actual links to your screenshots. If the images are in your local repository, you can store them in a folder like `assets` or `images` and use relative paths, like `./images/screenshot1.png`.
